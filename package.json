@@ -10,15 +10,16 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d -dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JebanPh/my-web-portfolio.git"
   },
-  "author": "Jay Van C. Magpantay",
+  "author": "Jay Van Magpantay",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JebanPh/my-web-portfolio/issues"
   }
+
 }
