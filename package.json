@@ -1,6 +1,6 @@
 {
   "name": "my-web-portfolio",
-  "homepage": "https://github.com/JebanPh/my-web-portfolio#readme",
+  "homepage": "https://github.io/JebanPh/my-web-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -21,5 +21,4 @@
   "bugs": {
     "url": "https://github.com/JebanPh/my-web-portfolio/issues"
   }
- 
 }
